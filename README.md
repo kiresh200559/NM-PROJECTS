@@ -44,7 +44,7 @@ How to Run Locally
 
 Clone the repository:
 
-git clone https://github.com/Balamurugan200526/NM-Project.git
+git clone https://github.com/kiresh200559/NM-PROJECTS.git
 
 
 Navigate to the project folder:
