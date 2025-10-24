@@ -1,6 +1,6 @@
-IBM Node.js Client-Side Validation Project
+IBM Node.js Client-Side form Validation Project
 
-Author: S. Balamurugan
+Author: R.Kiresh
 College: A.V.C College of Engineering
 
 Project Overview
@@ -32,7 +32,7 @@ Backend: Node.js
 Validation: JavaScript (client-side)
 
 Project Structure
-IBM-NJ-Client-Side-Validation/
+NM-Project/
 │
 ├─ server.js           # Node.js server
 ├─ index.html          # Main HTML form
